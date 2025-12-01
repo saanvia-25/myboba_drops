@@ -3,14 +3,14 @@ body {
     line-height: 1.6;
     margin: 0;
     padding: 20px;
-    color: #F599A4;
+    color: #fe8d7d;
     max-width: 800px;
     margin: 0 auto;
-    background-color: #096C6C
+    background-color: #015255
 }
 
 h1 {
-    color: #F599A4;
+    color: #fe8d7d;
     border-bottom: 2px solid #eee;
     padding-bottom: 10px;
 }
